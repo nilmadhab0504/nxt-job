@@ -10,12 +10,12 @@ Ensure you have the following installed:
 
 ## Setup & Run
 
-1. Clone the repository to your local machine:
+1.Clone the repository to your local machine:
 
-   ```bash
+```bash
    git clone https://github.com/nilmadhab0504/nxt-job.git
    cd nxt-job
-   ```
+ ```
 2.Install the project dependencies:
 
    ```bash
